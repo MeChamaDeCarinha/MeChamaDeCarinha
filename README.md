@@ -11,13 +11,16 @@
 ⚡️ - Gatos > tudo.
 
 
+
 ## 🛠 Habilidades
 Possuo conhecimento de lógica de programação e programação orientada a objetos.
 Tenho experiencia em Java, Javascript, Python, C++, PHP, HTML, CSS.
 
 
+
 ## 🚀 Sobre mim
 Tenho 17 anos, comecei com programação em 2022 e pretendo me especializar em back-end.
+
 
 
 ## 🔗 Links

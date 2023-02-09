@@ -1,6 +1,6 @@
 
 # Olá, seja bem vindo.
-🧠 - Atalmente curso Desenvolvimento de Sistemas na Etec (3º Modulo) e buscando aprender Python por fora.
+🧠 - Atualmente curso Desenvolvimento de Sistemas na Etec (3º Modulo) e buscando aprender Python por fora.
 
 👩‍💻 - Estou a procura de um emprego como desenvolvedor.
 

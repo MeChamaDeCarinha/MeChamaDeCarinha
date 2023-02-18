@@ -14,9 +14,11 @@
 
 
 ## 🛠 Habilidades
-Possuo conhecimento de lógica de programação, programação orientada a objetos e banco de dados.
+Conceitos: Lógica de programação, programação orientada a objetos.
 
-Tenho conhecimento em Java, Javascript, Python, C++, PHP, MySQL, HTML e CSS.
+Linguagens: Java, Javascript, Python, C++ e PHP.
+
+Mais: Banco de dados relacional (MySQL) e atualmente aprendendo não relacional (MongoDB).
 
 
 ## 🔗 Links

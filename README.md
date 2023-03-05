@@ -17,11 +17,11 @@
 
 
 ## 🛠 Habilidades
-Conceitos: Lógica de programação, programação orientada a objetos.
+Conceitos: Lógica de programação, programação orientada a objetos
 
-Linguagens: Java, JavaScript, Python, C++ e PHP.
+Linguagens: Java, JavaScript, Python, C++ e PHP
 
-Mais: Banco de dados relacional (MySQL) e atualmente aprendendo não relacional (MongoDB).
+Mais: Banco de dados relacional (MySQL) e atualmente aprendendo não relacional (MongoDB)
 
 <div style="display: inline_block"><br>
   <img title="Java" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />

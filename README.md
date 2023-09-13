@@ -1,15 +1,13 @@
 
 # Olá, seja bem vindo.
 
-📞 - Trabalhando na [SMP Soluções](http://smpsolucoes.com.br/) 
+📞 - Trabalhando na [SMP Soluções](http://smpsolucoes.com.br/) como desenvolvedor full stack
 
 👨🏻‍🎓 - Técnico em Desenvolvimento de Sistemas, Etec Philadelpho Gouvêa Netto
 
 👀 - Você pode encontrar o repositório do meu TCC aqui no [GitHub](https://github.com/MeChamaDeCarinha/EasyD20)
 
 🗺 - São José do Rio Preto, São Paulo
-
-📫 - Email: backend.leonardo@gmail.com
 
 📱 - Telefone: +55 17 98230-9112
 

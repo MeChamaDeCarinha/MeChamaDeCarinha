@@ -1,7 +1,7 @@
 
 # Olá, seja bem vindo.
 
-🧠 - Estou a procura de um emprego como desenvolvedor backend
+📞 - Trabalhando na [SMP Soluções](http://smpsolucoes.com.br/) 
 
 👨🏻‍🎓 - Técnico em Desenvolvimento de Sistemas, Etec Philadelpho Gouvêa Netto
 

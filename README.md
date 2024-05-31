@@ -5,13 +5,11 @@
 
 👨🏻‍🎓 - Técnico em Desenvolvimento de Sistemas, Etec Philadelpho Gouvêa Netto
 
-👀 - Você pode encontrar o repositório do meu TCC aqui no [GitHub](https://github.com/MeChamaDeCarinha/EasyD20) - pretendo refazer esse projeto em breve
+👀 - Você pode encontrar o repositório do meu TCC aqui no [GitHub](https://github.com/MeChamaDeCarinha/EasyD20-old) - pretendo refazer esse projeto em breve
 
 🗺 - São José do Rio Preto, São Paulo
 
 📱 - Contato: backend.leonardo@gmail.com
-
-⚡️ - Gatos > tudo
 
 
 ## 🛠 Habilidades

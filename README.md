@@ -40,10 +40,6 @@ O restaurante monta o cardápio, compartilha por QR Code e paga uma assinatura p
 Pipeline em Go que baixa os dados abertos da Receita Federal, converte e carrega milhões de empresas no PostgreSQL com `COPY`, e um site para filtrar empresas por CNAE e município.<br />
 `Go` `pgx` `PostgreSQL` `React`
 
-**🎧 Análise de ligações** · telemarketing<br />
-Transcreve gravações localmente com Whisper e gera, por ligação e por operador, sentimento do cliente, objeções e métricas de fala, em CSV e relatório HTML. Nenhum áudio sai da máquina.<br />
-`Python` `faster-whisper` `scikit-learn`
-
 ### Stack do dia a dia
 
 <p>

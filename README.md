@@ -15,7 +15,7 @@
 
 - 💼 Desenvolvedor full stack na [**SMP Soluções**](https://smpsolucoes.com.br/): sistemas internos, e-commerce, extensões de navegador e automações
 - 🎓 Técnico em Desenvolvimento de Sistemas pela **Etec Philadelpho Gouvêa Netto**
-- 🎲 Reescrevendo meu TCC, o [**EasyD20**](https://github.com/MeChamaDeCarinha/EasyD20), em TypeScript ([versão original](https://github.com/MeChamaDeCarinha/EasyD20-old))
+- 🎲 Meu TCC foi o [**EasyD20**](https://github.com/MeChamaDeCarinha/EasyD20-old), um projeto de RPG digital
 - 🌱 Estudando Go e processamento de áudio com Python
 
 ### Stack do dia a dia
@@ -32,16 +32,6 @@
 | **Backend** | Node.js, Bun, Express, Socket.io, Zod, Go |
 | **Dados** | Prisma, PostgreSQL, MongoDB, SQLite |
 | **Outros** | Python (faster-whisper, scikit-learn), extensões para Chrome, PM2 |
-
-### Projetos em destaque
-
-| Projeto | Descrição | Stack |
-| --- | --- | --- |
-| [**EasyD20**](https://github.com/MeChamaDeCarinha/EasyD20) | Sua aventura de RPG digital | TypeScript |
-| [**SyncWave**](https://github.com/MeChamaDeCarinha/SyncWave) | Player, downloader e sincronizador de músicas multiplataforma | TypeScript |
-| [**JWT-Auth**](https://github.com/MeChamaDeCarinha/JWT-Auth) | API de autenticação baseada em JSON Web Token | TypeScript |
-| [**Snake**](https://github.com/MeChamaDeCarinha/Snake) | Jogo da cobrinha com p5.js · [jogar](https://mechamadecarinha.github.io/Snake/) | JavaScript |
-| [**ImageOverlaying**](https://github.com/MeChamaDeCarinha/ImageOverlaying) | Script para mesclar camadas de imagem | C++ |
 
 ---
 

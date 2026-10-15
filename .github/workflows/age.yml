@@ -1,0 +1,32 @@
+name: Atualizar idade
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # 00:00 em São Paulo
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Calcular idade
+        env:
+          TZ: America/Sao_Paulo
+        run: |
+          birth=20051108
+          today=$(date +%Y%m%d)
+          age=$(( (today - birth) / 10000 ))
+          sed -i -E "s|<!--AGE-->[0-9]+<!--/AGE-->|<!--AGE-->${age}<!--/AGE-->|" README.md
+
+      - name: Commit
+        run: |
+          git diff --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Atualizar idade"
+          git push

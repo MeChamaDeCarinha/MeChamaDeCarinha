@@ -13,7 +13,7 @@
 
 ### Sobre mim
 
-- 👋 Tenho 19 anos e programo desde 2022
+- 👋 Tenho <!--AGE-->20<!--/AGE--> anos e programo desde 2022
 - 💼 Desenvolvedor full stack na [**SMP Soluções**](https://smpsolucoes.com.br/): sistemas internos, e-commerce e automações
 - 🚀 Cuido do produto de ponta a ponta: modelagem do banco, APIs, interfaces e deploy (Vercel, VPS com PM2)
 - 🔌 Experiência com integrações: pagamentos (Mercado Pago, Stripe), frete (Frenet), NF-e na SEFAZ, e-mails transacionais (Resend) e armazenamento na AWS

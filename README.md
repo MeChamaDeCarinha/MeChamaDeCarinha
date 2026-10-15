@@ -1,32 +1,50 @@
+<h1 align="center">Olá, eu sou o Leonardo 👋</h1>
 
-# Olá, seja bem vindo.
+<p align="center">
+  Desenvolvedor full stack em <b>São José do Rio Preto, SP</b> · programando desde 2022
+</p>
 
-📞 - Trabalhando na [SMP Soluções](http://smpsolucoes.com.br/) como desenvolvedor full stack
+<p align="center">
+  <a href="mailto:backend.leonardo@gmail.com"><img src="https://img.shields.io/badge/Email-backend.leonardo%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://smpsolucoes.com.br/"><img src="https://img.shields.io/badge/Trabalho%20na-SMP%20Soluções-0A66C2?style=flat-square" alt="SMP Soluções" /></a>
+</p>
 
-👨🏻‍🎓 - Técnico em Desenvolvimento de Sistemas, Etec Philadelpho Gouvêa Netto
+---
 
-👀 - Você pode encontrar o repositório do meu TCC aqui no [GitHub](https://github.com/MeChamaDeCarinha/EasyD20-old) - pretendo refazer esse projeto em breve
+### Sobre mim
 
-🗺 - São José do Rio Preto, São Paulo
+- 💼 Desenvolvedor full stack na [**SMP Soluções**](https://smpsolucoes.com.br/): sistemas internos, e-commerce, extensões de navegador e automações
+- 🎓 Técnico em Desenvolvimento de Sistemas pela **Etec Philadelpho Gouvêa Netto**
+- 🎲 Reescrevendo meu TCC, o [**EasyD20**](https://github.com/MeChamaDeCarinha/EasyD20), em TypeScript ([versão original](https://github.com/MeChamaDeCarinha/EasyD20-old))
+- 🌱 Estudando Go e processamento de áudio com Python
 
-📱 - Contato: backend.leonardo@gmail.com
+### Stack do dia a dia
 
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,nodejs,bun,express&perline=8" alt="Frontend e runtime" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=prisma,postgres,mongodb,sqlite,go,python,git,linux&perline=8" alt="Dados, backend e infra" />
+</p>
 
-## 🛠 Habilidades
-Conceitos: Lógica de programação e POO (Programação Orientada a
-Objetos)
+| Área | Ferramentas |
+| --- | --- |
+| **Frontend** | TypeScript, React, Next.js, Vite, Tailwind CSS, shadcn/ui |
+| **Backend** | Node.js, Bun, Express, Socket.io, Zod, Go |
+| **Dados** | Prisma, PostgreSQL, MongoDB, SQLite |
+| **Outros** | Python (faster-whisper, scikit-learn), extensões para Chrome, PM2 |
 
-Linguagens: PHP, Java, SQL, JavaScript e Python
+### Projetos em destaque
 
-Banco de dados relacionais: MySQL e MariaDB
-Bancos de dados não relacional: MongoDB
+| Projeto | Descrição | Stack |
+| --- | --- | --- |
+| [**EasyD20**](https://github.com/MeChamaDeCarinha/EasyD20) | Sua aventura de RPG digital | TypeScript |
+| [**SyncWave**](https://github.com/MeChamaDeCarinha/SyncWave) | Player, downloader e sincronizador de músicas multiplataforma | TypeScript |
+| [**JWT-Auth**](https://github.com/MeChamaDeCarinha/JWT-Auth) | API de autenticação baseada em JSON Web Token | TypeScript |
+| [**Snake**](https://github.com/MeChamaDeCarinha/Snake) | Jogo da cobrinha com p5.js · [jogar](https://mechamadecarinha.github.io/Snake/) | JavaScript |
+| [**ImageOverlaying**](https://github.com/MeChamaDeCarinha/ImageOverlaying) | Script para mesclar camadas de imagem | C++ |
 
+---
 
-<div style="display: inline_block"><br>
-  <img title="JavaScript" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img title="PHP" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img title="Java" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img title="Python" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img title="MySQL" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img title="MongoDB" align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-</div>
+<p align="center">
+  <i>Fique à vontade para abrir uma issue ou mandar um e-mail.</i>
+</p>

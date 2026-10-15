@@ -13,7 +13,10 @@
 
 ### Sobre mim
 
-- 💼 Desenvolvedor full stack na [**SMP Soluções**](https://smpsolucoes.com.br/): sistemas internos, e-commerce, extensões de navegador e automações
+- 👋 Tenho 19 anos e programo desde 2022
+- 💼 Desenvolvedor full stack na [**SMP Soluções**](https://smpsolucoes.com.br/): sistemas internos, e-commerce e automações
+- 🚀 Cuido do produto de ponta a ponta: modelagem do banco, APIs, interfaces e deploy (Vercel, VPS com PM2)
+- 🔌 Experiência com integrações: pagamentos (Mercado Pago, Stripe), frete (Frenet), NF-e na SEFAZ, e-mails transacionais (Resend) e armazenamento na AWS
 - 🎓 Técnico em Desenvolvimento de Sistemas pela **Etec Philadelpho Gouvêa Netto**
 - 🎲 Meu TCC foi o [**EasyD20**](https://github.com/MeChamaDeCarinha/EasyD20-old), um projeto de RPG digital
 - 🌱 Estudando Go
@@ -27,10 +30,6 @@ Vitrine, carrinho e checkout com Mercado Pago (cartão e Pix), cotação de fret
 **📊 Sistema interno de vendas B2B** · CRM e comissionamento<br />
 Plataforma para uma revenda de telecom: importa a carteira de clientes de várias planilhas, acompanha leads, propostas e cada item contratado, e calcula comissões, adiantamentos e estornos dos vendedores. Inclui dashboards em tempo real, portal de acompanhamento para o cliente e modo TV.<br />
 `React` `Express` `Socket.io` `Prisma` `MongoDB`
-
-**🧩 Complique** · extensão para Chrome<br />
-Adiciona atalhos e ferramentas ao portal de vendas usado pela equipe comercial: abrir simulações pelo número, somar planos e GB e liberar ações que o portal esconde.<br />
-`JavaScript` `Chrome MV3`
 
 **🍽️ Cardápio+** · SaaS de cardápio digital<br />
 O restaurante monta o cardápio, compartilha por QR Code e paga uma assinatura por cardápio. Atualmente sendo reescrito de Vite + Express + MongoDB para Next.js + Stripe.<br />
@@ -53,7 +52,7 @@ Pipeline em Go que baixa os dados abertos da Receita Federal, converte e carrega
 | **Frontend** | TypeScript, React, Next.js, Vite, Tailwind CSS, shadcn/ui |
 | **Backend** | Node.js, Bun, Express, Socket.io, Zod, Go |
 | **Dados** | Prisma, PostgreSQL, MongoDB, SQLite |
-| **Outros** | Extensões para Chrome, PM2 |
+| **Outros** | Vercel, PM2, AWS S3 |
 
 ---
 

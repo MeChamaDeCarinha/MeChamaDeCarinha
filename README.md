@@ -3,8 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:backend.leonardo@gmail.com"><img src="https://img.shields.io/badge/Email-backend.leonardo%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://smpsolucoes.com.br/"><img src="https://img.shields.io/badge/Trabalho%20na-SMP%20Soluções-0A66C2?style=flat-square" alt="SMP Soluções" /></a>
+  <img src="https://img.shields.io/badge/agora-reescrevendo_o_Card%C3%A1pio%2B-3FB950?style=flat-square&labelColor=161B22" alt="Agora: reescrevendo o Cardápio+" />
+  <img src="https://img.shields.io/badge/foco-full_stack_%C2%B7_TypeScript_%C2%B7_Go-30363D?style=flat-square&labelColor=161B22" alt="Foco: full stack, TypeScript, Go" />
+  <a href="https://smpsolucoes.com.br/"><img src="https://img.shields.io/badge/trabalho_na-SMP_Solu%C3%A7%C3%B5es-30363D?style=flat-square&labelColor=161B22" alt="Trabalho na SMP Soluções" /></a>
+  <img src="https://img.shields.io/badge/programando_desde-2022-30363D?style=flat-square&labelColor=161B22" alt="Programando desde 2022" />
 </p>
 
 ---
@@ -55,5 +57,5 @@ Pipeline em Go que baixa os dados abertos da Receita Federal, converte e carrega
 ---
 
 <p align="center">
-  <i>Fique à vontade para abrir uma issue ou mandar um e-mail.</i>
+  <i>Obrigado pela visita! 🐍</i>
 </p>

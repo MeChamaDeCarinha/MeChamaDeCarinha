@@ -16,7 +16,7 @@
 - 💼 Desenvolvedor full stack na [**SMP Soluções**](https://smpsolucoes.com.br/): sistemas internos, e-commerce, extensões de navegador e automações
 - 🎓 Técnico em Desenvolvimento de Sistemas pela **Etec Philadelpho Gouvêa Netto**
 - 🎲 Meu TCC foi o [**EasyD20**](https://github.com/MeChamaDeCarinha/EasyD20-old), um projeto de RPG digital
-- 🌱 Estudando Go e processamento de áudio com Python
+- 🌱 Estudando Go
 
 ### O que eu construo
 
@@ -45,7 +45,7 @@ Pipeline em Go que baixa os dados abertos da Receita Federal, converte e carrega
 <p>
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,nodejs,bun,express&perline=8" alt="Frontend e runtime" />
   <br />
-  <img src="https://skillicons.dev/icons?i=prisma,postgres,mongodb,sqlite,go,python,git,linux&perline=8" alt="Dados, backend e infra" />
+  <img src="https://skillicons.dev/icons?i=prisma,postgres,mongodb,sqlite,go,git,linux&perline=8" alt="Dados, backend e infra" />
 </p>
 
 | Área | Ferramentas |
@@ -53,7 +53,7 @@ Pipeline em Go que baixa os dados abertos da Receita Federal, converte e carrega
 | **Frontend** | TypeScript, React, Next.js, Vite, Tailwind CSS, shadcn/ui |
 | **Backend** | Node.js, Bun, Express, Socket.io, Zod, Go |
 | **Dados** | Prisma, PostgreSQL, MongoDB, SQLite |
-| **Outros** | Python (faster-whisper, scikit-learn), extensões para Chrome, PM2 |
+| **Outros** | Extensões para Chrome, PM2 |
 
 ---
 

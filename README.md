@@ -18,6 +18,32 @@
 - 🎲 Meu TCC foi o [**EasyD20**](https://github.com/MeChamaDeCarinha/EasyD20-old), um projeto de RPG digital
 - 🌱 Estudando Go e processamento de áudio com Python
 
+### O que eu construo
+
+**🛒 [SMP Shopping](https://www.smpshopping.com.br)** · e-commerce completo, em produção<br />
+Vitrine, carrinho e checkout com Mercado Pago (cartão e Pix), cotação de frete e etiquetas pela Frenet, emissão de NF-e direto na SEFAZ-SP e painel administrativo com sugestões de produto geradas por IA.<br />
+`Next.js` `Prisma` `PostgreSQL` `AWS S3` `Resend`
+
+**📊 Sistema interno de vendas B2B** · CRM e comissionamento<br />
+Plataforma para uma revenda de telecom: importa a carteira de clientes de várias planilhas, acompanha leads, propostas e cada item contratado, e calcula comissões, adiantamentos e estornos dos vendedores. Inclui dashboards em tempo real, portal de acompanhamento para o cliente e modo TV.<br />
+`React` `Express` `Socket.io` `Prisma` `MongoDB`
+
+**🧩 Complique** · extensão para Chrome<br />
+Adiciona atalhos e ferramentas ao portal de vendas usado pela equipe comercial: abrir simulações pelo número, somar planos e GB e liberar ações que o portal esconde.<br />
+`JavaScript` `Chrome MV3`
+
+**🍽️ Cardápio+** · SaaS de cardápio digital<br />
+O restaurante monta o cardápio, compartilha por QR Code e paga uma assinatura por cardápio. Atualmente sendo reescrito de Vite + Express + MongoDB para Next.js + Stripe.<br />
+`Next.js` `Stripe` `Prisma`
+
+**🏢 Base de CNPJs** · ETL + consulta<br />
+Pipeline em Go que baixa os dados abertos da Receita Federal, converte e carrega milhões de empresas no PostgreSQL com `COPY`, e um site para filtrar empresas por CNAE e município.<br />
+`Go` `pgx` `PostgreSQL` `React`
+
+**🎧 Análise de ligações** · telemarketing<br />
+Transcreve gravações localmente com Whisper e gera, por ligação e por operador, sentimento do cliente, objeções e métricas de fala, em CSV e relatório HTML. Nenhum áudio sai da máquina.<br />
+`Python` `faster-whisper` `scikit-learn`
+
 ### Stack do dia a dia
 
 <p>

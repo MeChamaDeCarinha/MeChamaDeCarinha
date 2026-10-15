@@ -1,7 +1,5 @@
-<h1 align="center">Olá, eu sou o Leonardo 👋</h1>
-
 <p align="center">
-  Desenvolvedor full stack em <b>São José do Rio Preto, SP</b> · programando desde 2022
+  <img src="./.github/assets/banner.svg" alt="Leonardo Santos — desenvolvedor full stack" width="100%" />
 </p>
 
 <p align="center">
